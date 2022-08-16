@@ -21,7 +21,7 @@
 	<div class="bg-burger bg-top py-32">
         <div class="mt-8 flex">
             <img
-                class="h-44 mx-auto"
+                class="h-44 mx-auto" style="max-width: 11rem;"
                 src="https://cdn.discordapp.com/avatars/878950861122985996/d05ce5c0de25fd9afb4f5492f31f21fe.webp?size=1024"
                 alt="Zumito logo"
             />

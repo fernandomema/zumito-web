@@ -2,7 +2,6 @@
 <script>
 import { onMount } from "svelte";
 
-
     const host = import.meta.env.VITE_API_HOST;
     const pageSize = 25;
     let page = 1;
